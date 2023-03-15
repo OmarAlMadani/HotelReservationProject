@@ -1,0 +1,15 @@
+/Users/Omar/Projects/HotelReservation/HotelReservation/bin/Debug/net7.0/HotelReservation
+/Users/Omar/Projects/HotelReservation/HotelReservation/bin/Debug/net7.0/HotelReservation.deps.json
+/Users/Omar/Projects/HotelReservation/HotelReservation/bin/Debug/net7.0/HotelReservation.runtimeconfig.json
+/Users/Omar/Projects/HotelReservation/HotelReservation/bin/Debug/net7.0/HotelReservation.dll
+/Users/Omar/Projects/HotelReservation/HotelReservation/bin/Debug/net7.0/HotelReservation.pdb
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.csproj.AssemblyReference.cache
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.AssemblyInfoInputs.cache
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.AssemblyInfo.cs
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.csproj.CoreCompileInputs.cache
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.dll
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/refint/HotelReservation.dll
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.pdb
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/HotelReservation.genruntimeconfig.cache
+/Users/Omar/Projects/HotelReservation/HotelReservation/obj/Debug/net7.0/ref/HotelReservation.dll
